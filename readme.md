@@ -1,4 +1,4 @@
-# 🇺🇸 US Elections Sentiment Analysis 🗳️
+# US Elections Sentiment Analysis 🗳️
 This project focuses on **sentiment analysis** of tweets related to the **US Elections**, aiming to classify them as **positive, negative, or neutral** using Natural Language Processing (NLP) and Machine Learning.
 ## 📊 Overview
 - Preprocessing and cleaning of raw tweet text
