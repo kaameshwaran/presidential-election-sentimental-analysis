@@ -41,10 +41,6 @@ Clone this repository:
 git clone https://github.com/yourusername/us-elections-sentiment-analysis.git
 cd us-elections-sentiment-analysis
 ```
-Install the dependencies:
-```bash
-pip install -r requirements.txt
-```
 ### Run the Notebook
 ```bash
 jupyter notebook "US Elections Sentiment Analysis.ipynb"
